@@ -12,7 +12,7 @@
 
 ## About me
 
-I am a **Data and AI enthusiast** developing practical evidence for roles in **Machine Learning, AI, and Data Engineering**. My focus is on turning data and experiments into reliable, well-documented software—from data pipelines and model evaluation to production-minded AI applications.
+I am a **Data and AI enthusiast** developing practical evidence for roles in **Machine Learning, AI, and Data Engineering**. My focus is on turning data and experiments into reliable, well-documented software from data pipelines and model evaluation to production-minded AI applications.
 
 - 🧠 Learning through hands-on ML, LLM, and reinforcement-learning projects
 - ⚙️ Building data workflows with orchestration, relational databases, and quality checks
