@@ -28,14 +28,6 @@ I am a **Data and AI enthusiast** developing practical evidence for roles in **M
 | **Data Engineering** | Reliable SQL pipelines, orchestration, data quality, and analytics foundations |
 | **Production AI** | Dockerized services, APIs, testing, observability, and deployment practices |
 
-## Featured work
-
-| Project | Highlights |
-| :-- | :-- |
-| [**Lion Parcel ETL**](https://github.com/Igrise12/Lion_Parcel_ETL) | An Apache Airflow pipeline that moves data from MySQL to PostgreSQL, with hourly orchestration and data-quality checks. |
-| [**LangChain Learn**](https://github.com/Igrise12/Langchain_learn) | Hands-on exploration of LangChain workflows and multimodal input experiments. |
-| [**Reinforcement Learning Learn**](https://github.com/Igrise12/Reinforcement-Learning-Learn) | Reinforcement-learning training and notebook exercises. |
-| [**ML Learning Projects**](https://github.com/Igrise12?tab=repositories&q=&type=&language=jupyter-notebook&sort=) | Practical classification, regression, and data-analysis projects—including Wine Classification, Boston House Pricing, and Titanic ML. |
 
 ## Toolkit I am working with
 
