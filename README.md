@@ -1,8 +1,64 @@
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/l6n3hpbumf1etwsw37qrt09p-dark.svg?v=1789024658255">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/l6n3hpbumf1etwsw37qrt09p-light.svg?v=1789024658255">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/l6n3hpbumf1etwsw37qrt09p-dark.svg?v=1789024658255">
-</picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
-<!-- GITHUBWALLPAPER:END -->
+<div align="center">
+
+# Hi, I'm Patrick Marcel 👋
+
+### Building toward a career in Machine Learning, AI & Data Engineering
+
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0F766E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Igrise12?tab=repositories)
+[![Data Engineering](https://img.shields.io/badge/Data%20Engineering-2563EB?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://github.com/Igrise12/Lion_Parcel_ETL)
+
+</div>
+
+## About me
+
+I am a **Data and AI enthusiast** developing practical evidence for roles in **Machine Learning, AI, and Data Engineering**. My focus is on turning data and experiments into reliable, well-documented software—from data pipelines and model evaluation to production-minded AI applications.
+
+- 🧠 Learning through hands-on ML, LLM, and reinforcement-learning projects
+- ⚙️ Building data workflows with orchestration, relational databases, and quality checks
+- 📚 Prioritizing reproducibility, clear documentation, and the engineering decisions behind each project
+- 🎯 Working toward end-to-end AI systems that are useful beyond a notebook
+
+## Focus areas
+
+| Area | What I am building toward |
+| :-- | :-- |
+| **Machine Learning** | Reproducible experimentation, evaluation, and feature workflows |
+| **Artificial Intelligence** | Practical LLM applications, tool use, evaluation, and safety-aware design |
+| **Data Engineering** | Reliable SQL pipelines, orchestration, data quality, and analytics foundations |
+| **Production AI** | Dockerized services, APIs, testing, observability, and deployment practices |
+
+## Featured work
+
+| Project | Highlights |
+| :-- | :-- |
+| [**Lion Parcel ETL**](https://github.com/Igrise12/Lion_Parcel_ETL) | An Apache Airflow pipeline that moves data from MySQL to PostgreSQL, with hourly orchestration and data-quality checks. |
+| [**LangChain Learn**](https://github.com/Igrise12/Langchain_learn) | Hands-on exploration of LangChain workflows and multimodal input experiments. |
+| [**Reinforcement Learning Learn**](https://github.com/Igrise12/Reinforcement-Learning-Learn) | Reinforcement-learning training and notebook exercises. |
+| [**ML Learning Projects**](https://github.com/Igrise12?tab=repositories&q=&type=&language=jupyter-notebook&sort=) | Practical classification, regression, and data-analysis projects—including Wine Classification, Boston House Pricing, and Titanic ML. |
+
+## Toolkit I am working with
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## Current direction
+
+> I am building a focused portfolio of deployable, well-documented projects that demonstrate the path from data and experimentation to reliable software.
+
+If you are interested in practical ML, AI, or data-engineering work, explore my [repositories](https://github.com/Igrise12?tab=repositories) and follow the projects as they evolve.
+
+---
+
+<div align="center">
+  <sub>Learning in public • Building with intent • Growing through real projects</sub>
+</div>
